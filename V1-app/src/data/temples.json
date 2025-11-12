@@ -1,0 +1,88 @@
+
+
+[
+  {
+    "id": "1",
+    "name": "Golden Temple",
+    "location": "Amritsar, Punjab",
+    "deity": "Guru Nanak",
+    "rating": 4.8,
+    "reviews": "2.1k",
+    "description": "The holiest Gurdwara and the most important pilgrimage site of Sikhism",
+    "timings": "24 hours",
+    "festivals": ["Guru Nanak Jayanti", "Vaisakhi"],
+    "verified": true,
+    "trustName": "Golden Temple Trust",
+    "image": "golden_temple.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Vaishno Devi Temple",
+    "location": "Katra, Jammu & Kashmir",
+    "deity": "Devi Mata",
+    "rating": 4.7,
+    "reviews": "1.8k",
+    "description": "Famous Hindu temple dedicated to Goddess Vaishno Devi",
+    "timings": "24 hours",
+    "festivals": ["Navratri", "Diwali"],
+    "verified": true,
+    "trustName": "Shri Mata Vaishno Devi Shrine Board",
+    "image": "vaishno.png"
+  },
+  {
+    "id": "3",
+    "name": "Tirupati Balaji",
+    "location": "Tirupati, Andhra Pradesh",
+    "deity": "Vishnu",
+    "rating": 4.9,
+    "reviews": "3.2k",
+    "description": "One of the richest temples in the world dedicated to Lord Venkateswara",
+    "timings": "2:30 AM - 1:00 AM",
+    "festivals": ["Brahmotsavam", "Vaikunta Ekadashi"],
+    "verified": true,
+    "trustName": "Tirumala Tirupati Devasthanams",
+    "image": "tirupati.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Siddhivinayak Temple",
+    "location": "Mumbai, Maharashtra",
+    "deity": "Ganesh",
+    "rating": 4.6,
+    "reviews": "1.5k",
+    "description": "Famous Ganesh temple in Mumbai known for fulfilling wishes",
+    "timings": "5:30 AM - 10:00 PM",
+    "festivals": ["Ganesh Chaturthi", "Maghi Ganesh Jayanti"],
+    "verified": true,
+    "trustName": "Shree Siddhivinayak Ganapati Temple Trust",
+    "image": "sidhivinayak.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Meenakshi Temple",
+    "location": "Madurai, Tamil Nadu",
+    "deity": "Devi Meenakshi",
+    "rating": 4.8,
+    "reviews": "2.3k",
+    "description": "Historic Hindu temple dedicated to Goddess Meenakshi and Lord Sundareswarar",
+    "timings": "5:00 AM - 12:30 PM, 4:00 PM - 10:00 PM",
+    "festivals": ["Meenakshi Tirukalyanam", "Navarathri"],
+    "verified": true,
+    "trustName": "Arulmigu Meenakshi Sundareswarar Temple",
+    "image": "meenakshi.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Jagannath Temple",
+    "location": "Puri, Odisha",
+    "deity": "Krishna",
+    "rating": 4.7,
+    "reviews": "1.9k",
+    "description": "Famous temple dedicated to Lord Jagannath, known for the Rath Yatra",
+    "timings": "5:00 AM - 12:00 PM, 7:00 PM - 10:00 PM",
+    "festivals": ["Rath Yatra", "Snana Yatra"],
+    "verified": true,
+    "trustName": "Jagannath Temple Administration",
+    "image": "jaganath.jpg"
+  }
+]
