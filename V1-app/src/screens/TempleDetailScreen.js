@@ -39,7 +39,7 @@ export default function TempleDetailScreen({ route, navigation }) {
   return (
     <ScrollView style={styles.container}>
       {/* 1. Image */}
-      <Image source={imageMap[templeData.image]} style={styles.headerImage} />
+      <Image source={templeData.image} style={styles.headerImage} />
 
       <View style={styles.infoContainer}>
         {/* 2. Name */}
