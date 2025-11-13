@@ -61,7 +61,7 @@ export default function HomeScreen({ navigation }) {
         style={styles.templeImageContainer}
       >
      <Image
-        source={imageMap[item.image]} 
+        source={item.image} 
         style={styles.templeImage} 
       />
       </LinearGradient>
