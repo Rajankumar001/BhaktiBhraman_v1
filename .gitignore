@@ -1,0 +1,13 @@
+V1-app/node_modules/
+V1-server/node_modules/
+
+# Environment files
+V1-app/.env
+V1-server/.env
+
+# Logs
+*.log
+
+# Build outputs
+V1-app/dist/
+V1-server/dist/
